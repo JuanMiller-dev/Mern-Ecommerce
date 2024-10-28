@@ -11,4 +11,5 @@ if \"%GIT_AUTHOR_EMAIL%\"==\"%OLD_EMAIL%\" (
     set GIT_AUTHOR_NAME=%CORRECT_NAME%
     set GIT_AUTHOR_EMAIL=%CORRECT_EMAIL%
 )
-" --tag-name-filter cat -- --branches --tags
+"
+
