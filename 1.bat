@@ -1,4 +1,4 @@
-git filter-branch --env-filter "
+git filter-branch -f --env-filter "
 SET OLD_EMAIL=meabhisingh25@gmail.com
 SET CORRECT_NAME=Fake Name
 SET CORRECT_EMAIL=fake.email@example.com
